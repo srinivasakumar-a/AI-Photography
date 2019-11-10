@@ -3,8 +3,11 @@
 Here are some applications of Deep Learning that I use in my personal hobby of photography. 
 
 [X] Labeling - finished
+
 [ ] Compression - cleaning up
+
 [ ] Effects - in dev
+
 [ ] Upscale - in dev
 
 ## Getting Started
