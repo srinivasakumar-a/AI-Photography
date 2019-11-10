@@ -22,4 +22,6 @@ If you do not wish to use Anaconda, the following should satisfy the requirement
 pip install pandas numpy matplotlib scikit-learn tensorflow keras
 ```
 
+### Change Directories in label.py
 Make sure to change directories in label.py to your own directories. Will not work without taking this step. You can add your own photos to /SampleImages.
+
